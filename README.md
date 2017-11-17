@@ -18,4 +18,10 @@ Contents of the dataset:
 - lot_my_bid
 - result (euro)
 
-Requirements: BeautifulSoup, requests, os & unicodecsv
+Requirements 
+====
+BeautifulSoup, requests, os & unicodecsv
+
+Issues
+====
+utf-8 decoding/encoding issues (â becomes some code...)
